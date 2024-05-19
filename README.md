@@ -87,7 +87,7 @@ Alice, enter row and column (separated by space) for your move: 0 2
  ---|---|---
 2   |   | O
 
-CONGRATULATIONS Alice, YOU WIN!
+CONGRATULATIONS Asya, YOU WIN!
 Press 1 to play again, 0 to exit: 0
 THANK YOU FOR PLAYING TIC-TAC-TOE
 
