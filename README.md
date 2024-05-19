@@ -100,6 +100,3 @@ Developed by EkleZiast.
 Enjoy playing Tic-Tac-Toe! 🎉
 
 [GitHub Repository](https://github.com/EkleZiastX/Tic-Tac-Toe)
-```
-
-This `README.md` now includes emojis to make it more visually appealing, and it also has the link to your GitHub repository.
