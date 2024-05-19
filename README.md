@@ -42,7 +42,7 @@ Enter the name of player 2: EkleZiast
  ---|---|---
 2   |   |  
 
-Alice, enter row and column (separated by space) for your move: 0 0
+Asya, enter row and column (separated by space) for your move: 0 0
 
   0   1   2
 0  X |   |  
@@ -51,7 +51,7 @@ Alice, enter row and column (separated by space) for your move: 0 0
  ---|---|---
 2   |   |  
 
-Bob, enter row and column (separated by space) for your move: 1 1
+EkleZiast, enter row and column (separated by space) for your move: 1 1
 
   0   1   2
 0  X |   |  
@@ -60,7 +60,7 @@ Bob, enter row and column (separated by space) for your move: 1 1
  ---|---|---
 2   |   |  
 
-Alice, enter row and column (separated by space) for your move: 0 1
+Asya, enter row and column (separated by space) for your move: 0 1
 
   0   1   2
 0  X | X |  
@@ -69,7 +69,7 @@ Alice, enter row and column (separated by space) for your move: 0 1
  ---|---|---
 2   |   |  
 
-Bob, enter row and column (separated by space) for your move: 2 2
+EkleZiast, enter row and column (separated by space) for your move: 2 2
 
   0   1   2
 0  X | X |  
@@ -78,7 +78,7 @@ Bob, enter row and column (separated by space) for your move: 2 2
  ---|---|---
 2   |   | O
 
-Alice, enter row and column (separated by space) for your move: 0 2
+Asya, enter row and column (separated by space) for your move: 0 2
 
   0   1   2
 0  X | X | X
