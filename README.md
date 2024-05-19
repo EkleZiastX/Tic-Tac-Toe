@@ -32,8 +32,8 @@ Here's an example of how a game might look when you play:
 WELCOME TO TIC-TAC-TOE GAME
 The player who succeeds in placing three of their marks in a horizontal,
 vertical, or diagonal row is the winner.
-Enter the name of player 1: Alice
-Enter the name of player 2: Bob
+Enter the name of player 1: Asya
+Enter the name of player 2: EkleZiast
 
   0   1   2
 0   |   |  
